@@ -1,0 +1,64 @@
+site_name: 'ジョージア工科大学に合格するまでの572時間29分02秒'
+
+copyright: 'kakeami (c) 2021'
+
+extra_css:
+    - 'https://fonts.googleapis.com/earlyaccess/notosansjp.css'
+    - 'https://fonts.googleapis.com/css?family=Open+Sans:600,800'
+    - 'https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css'
+    - 'css/custom.css'
+
+theme:
+    name: 'material'
+    language: 'ja'
+
+extra:
+    font:
+        text: 'Noto Sans JP'
+        code: 'Consolas'
+    palette:
+        primary: 'indigo'
+        accent: 'red'
+    search:
+        language: 'jp'
+
+extra_javascript:
+    - http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+
+markdown_extensions:
+    - mdx_math:
+        enable_dollar_delimiter: true
+    - def_list
+    - admonition
+    - codehilite:
+        linenums: true
+        guess_lang: false
+        use_pygments: false
+        noclasses: true
+    - toc:
+        permalink: true
+    - fontawesome_markdown
+
+pages:
+    - はじめに: 'index.md'
+    - TOEFL iBT対応:
+        - TOEFL対応全体: 'toefl.md'
+        - Vocabulary対応: 'toefl-v.md'
+        - Reading対応: 'toefl-r.md'
+        - Listening対応: 'toefl-l.md'
+        - Speaking対応: 'toefl-s.md'
+        - Writing対応: 'toefl-w.md'
+        - その他の対応: 'toefl-misc.md'
+    - Academic History対応: 'academic.md'
+    - Resume対応: 'resume.md'
+    - Recommendations対応: 'reco.md'
+    - Background対応: 'bg.md'
+    - Personal Statement対応: 'ps.md'
+    - その他の対応: 'misc.md'
+    - 出願後の対応: 'after.md'
+    - おわりに: 'epi.md'
+    - Appendix A: 'a-a.md'
+    - Appendix B: 'a-b.md'
+
+plugins:
+    - macros

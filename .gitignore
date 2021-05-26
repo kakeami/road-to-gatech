@@ -1,0 +1,10 @@
+data/
+notebooks/
+conf/
+docker-compose.yml
+Dockerfile
+.DS_Store
+*.pptx
+*.swp
+pixabay/
+search_index.json
