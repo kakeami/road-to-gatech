@@ -23,7 +23,7 @@
 
 > If admitted to the OMSCS program it may be possible to defer your admission if you do not matriculate into the OMSCS program. Applications are good for one year from the term for which you applied originally. For example, if you originally applied for the fall 2021 term, and you do not enroll in any classes/matriculate, it may be possible to request a deferral up to the Spring 2022 term. If you want to defer past fall 2022, you would need to reapply to the OMSCS program. Please note that deferral requests can be processed only for the fall and spring semesters.
 
-2021年は公私共に多忙なため，家族および会社と相談し，ジョージア工科大学への入学を1年延期することにしました．
+2021年秋は公私共に多忙なため，家族および会社と相談し，ジョージア工科大学への入学をしばらく延期することにしました．
 次回作「ジョージア工科大学を**卒業**するまでのxxxx時間xx分xx秒」を公開できるのはいつになるかわかりませんが，機会がありましたら，またご覧いただけますと幸いです．
 
 !!! Note
