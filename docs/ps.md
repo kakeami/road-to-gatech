@@ -2,9 +2,9 @@
 
 
 !!! Summary
+    - [Donald Aser, Graduate Admissions Essays, Fourth Edition: Write Your Way into the Graduate School of Your Choice](https://www.amazon.co.jp/Graduate-Admissions-Essays-Fourth-School/dp/1607743213)を参考にPersonal Statement（志望動機書）を作成
     - 合計時間は33時間12分47秒．最も時間をかけたのはPersonal Statement案の作成・修正（約12時間）
     - 2020年7月から2021年2月まで作業が発生．2020年10月および2021年1月が作業時間のピーク
-    - [Donald Aser, Graduate Admissions Essays](https://www.amazon.co.jp/Graduate-Admissions-Essays-Fourth-School/dp/1607743213)を読むまで方針が定まらず，精神的に辛い時期が続いた
 
 {% include 'html/bs_Personal Statement対応_00.html' %}
 

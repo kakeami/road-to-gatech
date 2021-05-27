@@ -1,9 +1,9 @@
 # Resume対応（7時間21分09秒）
 
 !!! Summary
+    - 日常的に更新していたResumeを，[mszepさんのpandoc_resume](https://github.com/mszep/pandoc_resume)で加工して提出した
     - 合計時間は7時間21分09秒．最も時間をかけたのはResume案の作成（約6時間）
     - 2020年7月は調査のみ．2020年12月から2021年2月に実質的な作業が発生
-    - 日常的に更新していたResumeを，[mszepさんのpandoc_resume](https://github.com/mszep/pandoc_resume)のフォーマットでお化粧して完成
 
 {% include 'html/bs_Resume対応_00.html' %}
 

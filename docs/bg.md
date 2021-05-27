@@ -1,9 +1,9 @@
 # Background対応（3時間25分22秒）
 
 !!! Summary
+    - OMSCSでやっていける程度のCSの基礎力があることを，2000 characters以内のショートエッセイで主張した
     - 合計時間は3時間25分22秒．最も時間をかけたのはBackground案の作成（約2時間）
     - 実質的に作業したのは2020年12月のみ．[Resume](https://kakeami.github.io/road-to-gatech/resume/)の内容を大幅に流用することで効率的に対応
-    - [DeepL](https://www.deepl.com/ja/translator)で機械翻訳したものを[grammarly](https://www.grammarly.com/)で修正し，最後に[英語英文添削センター](https://www.speedtensaku.com/)に添削を依頼した
 
 {% include 'html/bs_Background対応_00.html' %}
 
