@@ -1,19 +1,11 @@
 # Personal Statement対応（33時間12分47秒）
 
-
 !!! Summary
     - [Donald Aser, Graduate Admissions Essays](https://www.amazon.co.jp/Graduate-Admissions-Essays-Fourth-School/dp/1607743213)を参考にPersonal Statement（志望動機書）を作成
     - 合計時間は33時間12分47秒．最も時間をかけたのはPersonal Statement案の作成・修正（約12時間）
     - 2020年7月から2021年2月まで作業が発生．2020年10月および2021年1月が作業時間のピーク
 
 {% include 'html/bs_Personal Statement対応_00.html' %}
-
-!!! Note
-    本サイトでは[plotly](https://plotly.com/python/)を用いたインタラクティブなグラフを多用するため，PCでの閲覧を推奨します．
-
-!!! Note
-    積み上げ棒グラフ（対応時間の内訳の推移）は，グラフ本体の表示範囲を確保するために凡例を省略しています．
-    注目したい箇所にカーソルを合わせると，自動で凡例が表示されます．
 
 ## 概要
 

@@ -7,13 +7,6 @@
 
 {% include 'html/bs_toefl_00.html' %}
 
-!!! Note
-    本サイトでは[plotly](https://plotly.com/python/)を用いたインタラクティブなグラフを多用するため，PCでの閲覧を推奨します．
-
-!!! Note
-    積み上げ棒グラフ（対応時間の内訳の推移）は，グラフ本体の表示範囲を確保するために凡例を省略しています．
-    注目したい箇所にカーソルを合わせると，自動で凡例が表示されます．
-
 ## 概要
 
 [TOEFL iBT（Test Of English as a Foreign Language, internet Based Test）](https://www.ets.org/toefl)とは，アメリカの試験作成団体であるETS（Educational Testing Service）が作成する，英語を母国語としない人の英語力を測るテストです．

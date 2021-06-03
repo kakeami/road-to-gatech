@@ -7,13 +7,6 @@
 
 {% include 'html/bs_TOEFL_Listening対応_00.html' %}
 
-!!! Note
-    本サイトでは[plotly](https://plotly.com/python/)を用いたインタラクティブなグラフを多用するため，PCでの閲覧を推奨します．
-
-!!! Note
-    積み上げ棒グラフ（対応時間の内訳の推移）は，グラフ本体の表示範囲を確保するために凡例を省略しています．
-    注目したい箇所にカーソルを合わせると，自動で凡例が表示されます．
-
 ## 概要
 
 TOEFL iBTのListeningセクションの特徴は下記です．
@@ -157,13 +150,6 @@ Podcastと同様，2019年11月29日以前から，[Audible.com](https://www.aud
 - [Haruki Murakami, Hard-Boiled Wonderland and the End of the World](https://www.audible.com/pd/Hard-Boiled-Wonderland-and-the-End-of-the-World-Audiobook/B07DFM7Y68?ref=a_library_t_c5_libItem_&pf_rd_p=85df3330-9dc4-4a45-ae69-93cc2fc25ca4&pf_rd_r=YNZWBZKQMFWE6MN6HAQD)
 
 主に移動時間に聴いていたため，2020年2月以降にコロナ禍で在宅勤務に移行してから，明らかにAudibleに割く時間が減少しました．
-
-!!! Note
-    現在も，
-    [Sleep timer](https://help.audible.com/s/article/how-do-i-set-the-sleep-timer-in-the-audible-for-ios-app?language=en_US)
-    機能で入眠時に
-    [Audible.com](https://www.audible.com/)
-    を聴いています．作品によっては夢見が最悪になりますが…．
 
 ### 演習問題を解く（5時間06分31秒）
 

@@ -7,13 +7,6 @@
 
 {% include 'html/bs_Background対応_00.html' %}
 
-!!! Note
-    本サイトでは[plotly](https://plotly.com/python/)を用いたインタラクティブなグラフを多用するため，PCでの閲覧を推奨します．
-
-!!! Note
-    積み上げ棒グラフ（対応時間の内訳の推移）は，グラフ本体の表示範囲を確保するために凡例を省略しています．
-    注目したい箇所にカーソルを合わせると，自動で凡例が表示されます．
-
 ## 概要
 
 ジョージア工科大学のOMSCSに出願するために，出願用Webサイトの「OMSCS supplemental」ページの「Background」に2000 characters以内で記入する必要がありました．
