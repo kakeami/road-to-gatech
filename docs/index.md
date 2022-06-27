@@ -71,10 +71,9 @@ OMSCSへの出願タイミングは年2回，毎年7月頃と3月頃に設定さ
 大学および大学院でCSを専攻したことはありません．
 Pythonでおもちゃは作れますが，ソフトウェアエンジニアではありません．
 かねてからCSに憧れ（コンプレックスと言ったほうが近いかもしれません）を抱いていたため，2019年11月29日にジョージア工科大学のOMSCSの存在を知るとすぐに，受験を決意しました．
-準備に割く時間が無かったことと，金銭的な条件を満たす選択肢が無かったことから，併願はしませんでした．
+準備に割く時間が無かったことと，金銭的な条件を満たす選択肢が無かったことから，併願[^1]はしませんでした．
 
-!!! Note
-    例えば，[イリノイ大学のOnline Master of Computer Science](https://cs.illinois.edu/academics/graduate/professional-mcs/online-master-computer-science)はOMSCSと併願されがちなCS修士課程の一つです．
+[^1]: 例えば，[イリノイ大学のOnline Master of Computer Science](https://cs.illinois.edu/academics/graduate/professional-mcs/online-master-computer-science)はOMSCSと併願されがちなCS修士課程の一つです．
 
 以前TOEFL iBTを受験した際は88点でしたが，有効期限が切れてしまっていました．
 
